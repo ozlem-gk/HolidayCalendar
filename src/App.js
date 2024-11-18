@@ -190,4 +190,3 @@ const Calendar = () => {
 };
 
 export default Calendar;
-git config --global user.name "özlem"     
